@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "messaging",
+    "password": "messaging",
+    "database": "todo",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "messaging",
+    "password": "messaging",
+    "database": "todo",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "messaging",
+    "password": "messaging",
+    "database": "todo",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
